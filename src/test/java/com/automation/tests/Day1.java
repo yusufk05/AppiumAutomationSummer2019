@@ -92,6 +92,7 @@ public class Day1 {
         getDigit(5).click();
         getDigit(0).click();
         minus.click();
+
         getDigit(2).click();
         getDigit(0).click();
         equals.click();
